@@ -1,0 +1,207 @@
+{
+  "domain": "reasoningboost",
+  "niche": "Collegiate Reasoning Pedagogy & Deductive Logic",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "academic_library_book_stacks.jpg",
+      "size_kb": 68.44,
+      "md5": "35fdfb7f0883b2e5d09654cf21847256",
+      "description": "Historic university library book stacks and reference volumes",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "educator_chalkboard_mathematics_lecture.jpg",
+      "size_kb": 102.98,
+      "md5": "bbd6d7b464ad477862f12300e05974f2",
+      "description": "Educator explaining complex mathematical algorithms on chalkboard",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "students_faculty_roundtable_discussion.jpg",
+      "size_kb": 156.44,
+      "md5": "4d075bf6296453b54d5a3732c2df10be",
+      "description": "Students and faculty engaging in interdisciplinary roundtable discussion",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "academic_mentor_advising_student.jpg",
+      "size_kb": 162.32,
+      "md5": "603421b19bf09d29a042b25571e92c42",
+      "description": "Academic mentor advising graduate student on thesis methodology",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "leatherbound_treatises_academic_study.jpg",
+      "size_kb": 88.41,
+      "md5": "a434456fb3a48dc1aa9f4c674075fb6d",
+      "description": "Open leatherbound scholarly treatises and notebooks in faculty study",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "school_classroom.jpg",
+      "size_kb": 62.87,
+      "md5": "6809bb98701a8ffacef25caf9833d10a",
+      "description": "School classroom",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "diverse_academic_team_briefing.jpg",
+      "size_kb": 135.67,
+      "md5": "1acf4b6b2b726e25e972fd968b93439c",
+      "description": "Higher education faculty panel conferring on institutional curriculum",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "university_bookstore_study_supplies.jpg",
+      "size_kb": 75.58,
+      "md5": "aea28e7df87fd47fe9f6bfc779130dad",
+      "description": "University campus academic study supplies and stationery",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "university_ivy_covered_chapel.jpg",
+      "size_kb": 210.91,
+      "md5": "71803fbc41517b349ca367dd130aa8ef",
+      "description": "Historic collegiate ivy-covered campus pavilion",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "grand_university_atrium_books.jpg",
+      "size_kb": 137.08,
+      "md5": "0a4453fd8f9bb314a0b69163a535ce6c",
+      "description": "Grand multi-story academic library atrium with spiral stacks",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "quiet_reading_parlor.jpg",
+      "size_kb": 84.2,
+      "md5": "dc3f049f6735f3be1d9bf5d1a1eb0fb4",
+      "description": "Peaceful humanities library reading chair by large bay window",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "reasoningboost_asset_12.jpg",
+      "size_kb": 63.44,
+      "md5": "cf2ff08953c11a6ec2d9dd59cb955c09",
+      "description": "The Logic of Domination 6844025106",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "reasoningboost_asset_13.jpg",
+      "size_kb": 94.25,
+      "md5": "5396874534b11feed855f532a6fae13d",
+      "description": "Anna Lembke Tanner Lectures Discuss",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "reasoningboost_asset_14.jpg",
+      "size_kb": 169.52,
+      "md5": "57af86a20a04966a48b3d14bff0ed685",
+      "description": "Discussion between Johan Lindholm",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "reasoningboost_asset_15.jpg",
+      "size_kb": 168.05,
+      "md5": "444730a909b0980bc265c626c9f15b5d",
+      "description": "K M Khalid Speech Dhaka University",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "reasoningboost_asset_16.jpg",
+      "size_kb": 74.66,
+      "md5": "58f677e8668ce12719ec1b64f9bef8f1",
+      "description": "MAG 13 University Holds First Lance",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "reasoningboost_asset_17.jpg",
+      "size_kb": 114.63,
+      "md5": "3964df29a1d0598de78a1d518c3f0022",
+      "description": "MC Leadership Seminar takes on Nort",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "reasoningboost_asset_18.jpg",
+      "size_kb": 193.21,
+      "md5": "4f68952f95decf0f2d53a05524aa851f",
+      "description": "Sports Leadership Seminar 140507 D",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "reasoningboost_asset_19.jpg",
+      "size_kb": 229.17,
+      "md5": "bd5c2ffb0ac02a997ee9c9e0b372d556",
+      "description": "Sports Leadership Seminar 140507 D",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "reasoningboost_asset_20.jpg",
+      "size_kb": 150.33,
+      "md5": "f2ef38b38fdd6fdf5f728458ce2279bf",
+      "description": "Ukrainians Host Armed Forces Strate",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://reasoningboost.com/sitemap.xml",
+    "robots": "https://reasoningboost.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
